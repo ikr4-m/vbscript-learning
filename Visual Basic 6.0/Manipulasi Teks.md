@@ -19,7 +19,7 @@ Disini, kalian akan mengenal fungsi untuk:
 
 Nah, berikut adalah listingnya. Nanti saya berikan penjelasan di tiap-tiap barisnya:
 
-```vbscript
+```vb
 Private Sub Check1_Click()          ' Kondisi ketika Check1 diklik
 Label2.FontBold = Check1.Value      ' Apabila Check1 dipilih, maka Label2 akan tercetak tebal
 End Sub
