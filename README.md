@@ -1,5 +1,5 @@
-# vbscript-learning-database
-__Belajar VBScript (VB60/VBS) : Database Dan Kawan-Kawan__
+# vbscript-learning
+__Belajar VBScript (VB60/VBS)__
 
 Halo semua! Kali ini gua bakal sharing dikit belajar VBS, tapi kita bakal fokus ke database dan kawan-kawan.
 
