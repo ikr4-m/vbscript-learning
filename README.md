@@ -8,5 +8,6 @@ Mungkin kalian ga percaya bahwa __rata-rata aplikasi perkantoran didesain menggu
 Untuk daftar-daftar listingnya, monggo dicek diatas bro!
 
 Nanti gua bakal update lagi kalau semisal saya dapat ide lagi!
+Dan, untuk kalian yang ingin menyumbangkan idenya, ayuk masukin di folder contrib!
 
 Semoga belajarnya menyenangkan ya!
