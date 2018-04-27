@@ -79,5 +79,3 @@ If Text1.Text = "" Then               ' Meminta kondisi Text1 ketika kosong
     End If                            ' Jangan lupa untuk menutup fungsi pengulangannya
 End Sub
 ```
-
-Untuk versi yang telah jadi, saya telah [mengkompile filenya.](https://cdn.discordapp.com/attachments/308790604723257365/439070993101619210/Manipulasi_Teks.exe) Tenang, itu bukan virus, emang ekstensinya .exe tetapi sungguh, itu cuma app biasa.
