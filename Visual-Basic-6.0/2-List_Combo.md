@@ -5,6 +5,7 @@ Ok, kali ini kita akan belajar untuk mengoperasikan ListBox dan ComboBox dengan 
 ![Contoh Form](https://media.discordapp.net/attachments/439384229483380746/439384536112037889/VB6_2018-04-27_19-17-12.png)
 
 Nah kira-kira seperti itu Form yang akan kita buat. Nah, untuk simulasinya, kita akan memasukkan nama-nama guru yang berada di dalam ComboBox ke dalam ListBox.
+
 ![Isi ComboBox](https://media.discordapp.net/attachments/439384229483380746/439387195057504256/VB6_2018-04-27_19-26-41.png)
 
 Berikut di bawah adalah listingnya:
