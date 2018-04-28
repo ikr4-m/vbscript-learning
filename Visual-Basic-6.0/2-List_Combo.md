@@ -8,6 +8,7 @@ Nah kira-kira seperti itu Form yang akan kita buat. Nah, untuk simulasinya, kita
 
 ![Isi ComboBox](https://media.discordapp.net/attachments/439384229483380746/439387195057504256/VB6_2018-04-27_19-26-41.png)
 
+## Tujuan Pembelajaran
 Jadi, kita akan mempelajari:
 * Memasukkan beberapa item string ke dalam kumpulan ComboBox
 * Bermain dengan ListBox
@@ -15,6 +16,7 @@ Jadi, kita akan mempelajari:
   * Mengurangi item di dalam ListBox
   * Atau, bahkan menghilangkan semua item di dalam ListBox
 
+### Listing
 Berikut di bawah adalah listingnya:
 
 ```vb
