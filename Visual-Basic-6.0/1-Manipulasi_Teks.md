@@ -8,6 +8,7 @@ Kira-kira seperti inilah form yang akan kita buat, untuk nama tombolnya, kalian 
 
 ![tblInput](https://media.discordapp.net/attachments/308790604723257365/439068380205678592/VB6_2018-04-26_22-20-53.png)
 
+## Tujuan Pembelajaran
 Disini, kalian akan mengenal fungsi untuk:
 * Membuat teks menjadi:
   * Tebal
@@ -17,6 +18,7 @@ Disini, kalian akan mengenal fungsi untuk:
 * Mengubah warna teks
 * Fungsi pengulangan sederhana (If..Then..Else)
 
+### Listing
 Nah, berikut adalah listingnya. Nanti saya berikan penjelasan di tiap-tiap barisnya:
 
 ```vb
