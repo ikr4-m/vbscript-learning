@@ -53,7 +53,7 @@ Text3 = Val(Text1) ^ Val(Text2)
 End Sub
 
 Private Sub Option12_Click()
-Text3 = Val(Text1) Mod Val(Text2)
+Text3 = Val(Text1) Mod Val(Text2)     ' Modular/Mod, untuk mengetahui sisa dari sebuah pembagian
 End Sub
 
 Private Sub Option2_Click()
